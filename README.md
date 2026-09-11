@@ -45,6 +45,6 @@ PowerShell -NoProfile -ExecutionPolicy Bypass -File "C:\Program Files\IT_Mainten
 - **Error Isolation:** Designed with granular error handling to maintain continuity during multi-user environment scans.
 
 ## 7. Credits & Authorship
-- **Lead Architect & Maintainer:** @gabypuertor964
+- **Lead Architect & Maintainer:** @sandra-puerto
 - **Technical Copilot:** Powered by Google Gemini (AI Orchestration)
 - **License:** Apache License 2.0
