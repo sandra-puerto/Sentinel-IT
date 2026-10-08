@@ -1,3 +1,4 @@
+<<<<<<< HEAD
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -199,3 +200,104 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+=======
+================================================================================
+STRATUM-CORE — LICENSE
+Enhanced MIT License with Mandatory Architectural Attribution & Security Reporting
+================================================================================
+
+Copyright (c) 2026 Sandra Gabriela Puerto Torres
+All rights reserved.
+
+--------------------------------------------------------------------------------
+1. GRANT OF RIGHTS (COMMERCIAL & MULTI-ORGANIZATION USE)
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any person or entity obtaining
+a copy of this software and associated documentation files (the "Software"), to
+deal in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do so,
+for personal, academic, multi-organization, or commercial purposes (including
+commercial hosting, SaaS infrastructure, Managed Service Providers (MSP), and
+client multi-tenancy), subject to the following mandatory conditions:
+
+--------------------------------------------------------------------------------
+2. MANDATORY CONDITIONS
+--------------------------------------------------------------------------------
+
+The grant of rights set forth in Section 1 is expressly conditioned upon strict
+compliance with the following:
+
+  (a) MANDATORY ARCHITECTURAL ATTRIBUTION.
+
+      Any person or organization that uses, deploys, forks, redistributes, or
+      incorporates the Software (including in commercial multi-tenant hosting,
+      SaaS infrastructure, internal enterprise systems, or client deliverables)
+      must satisfy the following attribution requirements:
+
+      1. SOURCE & TECHNICAL DOCUMENTATION: Retain the original copyright notice
+         and the attribution credit ("Infrastructure Architecture: Stratum-Core
+         by Sandra Gabriela Puerto Torres — https://sandrapuerto.com") in all
+         project READMEs, repository documentation, and architectural diagrams.
+
+      2. RUNTIME CONTAINER METADATA: Preserve the author and architecture
+         metadata labels ('com.sandrapuerto.architecture', 'com.sandrapuerto.website',
+         'org.opencontainers.image.authors', and 'com.stratum-core.*') within all
+         running container definitions and Compose specifications.
+
+      3. PROVENANCE INTEGRITY: Derivative works or commercial services using
+         this architecture shall not remove, obscure, or alter the architectural
+         provenance credits to the original author.
+
+  (b) SECURITY VULNERABILITY REPORTING.
+
+      Any person or organization that discovers a potential security
+      vulnerability or multi-tenant boundary bypass in the Software shall
+      report it promptly and privately to the copyright holder at:
+
+          contacto@sandrapuerto.com
+
+      The report shall not be disclosed publicly prior to coordination with
+      the copyright holder. The copyright holder shall acknowledge receipt
+      within a reasonable timeframe and shall coordinate responsible
+      disclosure in good faith.
+
+      This condition applies to any deployment of the Software, whether
+      modified or unmodified, in source or compiled form.
+
+--------------------------------------------------------------------------------
+3. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+4. TERMINATION
+--------------------------------------------------------------------------------
+
+Any breach of the conditions set forth in Section 2 (including removal of
+mandatory attribution or irresponsible public disclosure of security flaws)
+shall result in the automatic termination of the rights granted in Section 1.
+Upon termination, the licensee shall cease all use, reproduction, and
+distribution of the Software and shall destroy all copies in their possession.
+
+--------------------------------------------------------------------------------
+5. GOVERNING PRINCIPLE
+--------------------------------------------------------------------------------
+
+This license is designed to foster wide commercial and open-source adoption
+under a permissive structure, while legally protecting the author's moral and
+professional credit as an intangible reputation asset. Where ambiguity exists,
+this license shall be construed in favor of the copyright holder.
+
+================================================================================
+END OF LICENSE
+================================================================================
+>>>>>>> d542816 (feat: add Sentinel-IT enterprise automation suite and maintenance engines)
